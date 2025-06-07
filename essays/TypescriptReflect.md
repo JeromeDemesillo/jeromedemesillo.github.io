@@ -29,7 +29,9 @@ console.log("Hello, World!");
 So it felt a bit strange having to go over Javascript for the first time, mind you I haven't touched Java since 2021.
 
 In a way, you can look at Javascript and TypeScript the same way as you look at C and C++.  They're both familiar in a way, but different in some. For example:
+
 Javascript
+
 ```
 function add(a, b) {
   return a + b;
