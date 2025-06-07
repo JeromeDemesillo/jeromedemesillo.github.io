@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Belonging.png
+image: img/belongingsquare.png
 title: "Belonging"
 date: 2025
 published: true
