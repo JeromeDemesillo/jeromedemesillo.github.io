@@ -1,54 +1,61 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Something New But Not Really"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-06-06
 published: true
 labels:
-  - Engineering
+  - TypeScript
+  - Learning
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<h1>
+  My Experiences
+</h1>
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+So far, TypeScript is a lot similar to Javascript, except that it tries to be different.  In a way, it feels a little more complicated.  Having starting college in 2021 and my first language being Java, it did feel like a lot compared to when I learned C and C++ a bit later, but I feel like Java is only a good first language when learning and understanding code fundamentally.  However, I haven't touched Java for a couple years, and having to go back to it was okay.  However, trying to learn TypeScript felt like a challenege because I wanted to write the code in Java, but its supposed to be TypeScript.  I haven't formally learned Javascript in a class before, so trying out the exercises felt a bit strange because of how similar it felt to code in Java vs JavaScript.  
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+How I remember printing something out in Java:
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+system.out.println("Hello World");
 
-Here's what I think: the difficult things will always be difficult.
+But printing something in Javascript:
 
-## In the context of programming
+console.log("Hello, World!");
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+So it felt a bit strange having to go over Javascript for the first time, mind you I haven't touched Java since 2021.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+In a way, you can look at Javascript and TypeScript the same way as you look at C and C++.  They're both familiar in a way, but different in some. For example:
+Javascript
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+function add(a, b) {
+  return a + b;
+}
 
-## In the context of engineering
+console.log(add(5, 3)); // 8
+console.log(add("5", 3)); // "53" ← no error, but might be unintended
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+TypeScript
+function add(a: number, b: number): number {
+  return a + b;
+}
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+console.log(add(5, 3)); // 8
+// console.log(add("5", 3)); // ❌ Error: Argument of type 'string' is not assignable to parameter of type 'number'
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+Personally, I do see TypeScript being good in a Software Engineering perspective.  I can see it being a good use for developing thing formally.  TypeScript could be good in athletic software engineering, assuming by the name, it might be a bit challeneging but I can see if people would want to use the language in an athletic sort of way.  
 
-Relationships have always been difficult, and by nature will continue to be so.
+I did find the practice WOD's to be very useful, mainly because I'm a slow coder usually and having the practice helps a lot, practice in general just helps a bunch.  I do like this style of learning, it lets me go at my own pace, it can be stressful if and only if I don't understand something right away.  
 
-## Okay!
+<h2>
+  ChatGPT
+</h2>
 
-So back to the original premise; why is being one of the club officers so difficult?
+I asked ChapGPT to give me the Javascript and TypeScript code snippets as my examples.  
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
