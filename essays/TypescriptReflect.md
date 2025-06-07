@@ -19,33 +19,33 @@ labels:
 So far, TypeScript is a lot similar to Javascript, except that it tries to be different.  In a way, it feels a little more complicated.  Having starting college in 2021 and my first language being Java, it did feel like a lot compared to when I learned C and C++ a bit later, but I feel like Java is only a good first language when learning and understanding code fundamentally.  However, I haven't touched Java for a couple years, and having to go back to it was okay.  However, trying to learn TypeScript felt like a challenege because I wanted to write the code in Java, but its supposed to be TypeScript.  I haven't formally learned Javascript in a class before, so trying out the exercises felt a bit strange because of how similar it felt to code in Java vs JavaScript.  
 
 How I remember printing something out in Java:
-
+```
 system.out.println("Hello World");
-
+```
 But printing something in Javascript:
-
+```
 console.log("Hello, World!");
-
+```
 So it felt a bit strange having to go over Javascript for the first time, mind you I haven't touched Java since 2021.
 
 In a way, you can look at Javascript and TypeScript the same way as you look at C and C++.  They're both familiar in a way, but different in some. For example:
 Javascript
-
+```
 function add(a, b) {
   return a + b;
 }
-
 console.log(add(5, 3)); // 8
 console.log(add("5", 3)); // "53" ← no error, but might be unintended
-
+```
 TypeScript
+```
 function add(a: number, b: number): number {
   return a + b;
 }
 
 console.log(add(5, 3)); // 8
 // console.log(add("5", 3)); // ❌ Error: Argument of type 'string' is not assignable to parameter of type 'number'
-
+```
 
 
 
