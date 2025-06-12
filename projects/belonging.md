@@ -7,6 +7,9 @@ date: 2025-05-12
 published: true
 labels:
   - GitHub
+  - Game Development
+  - Unity
+  - RPG
 summary: "An RPG me and my friends made for ICS 485."
 ---
 
