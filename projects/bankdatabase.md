@@ -32,10 +32,15 @@ Printing all existing records in the database.
 
 
 For this code to work, you need all of these files:
+
 database.c
+
 database.h
+
 record.h
+
 user_interface.c
+
 Makefile(for easier compiling)
 
 
