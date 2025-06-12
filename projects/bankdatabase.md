@@ -14,19 +14,22 @@ summary: "A simple bank database I made back in 2022 for ICS 212 in C"
 
 
 This project was slowly implemented over time throughout the semester, in which we implemented each method at a time, slowly building this project as a whole.  I'll give a small preview on the database working.
+_____________________________________________________________________________________
 
 <img class="img-fluid" src="../img/add1.png">
 
 Adding a record to the database.
+_____________________________________________________________________________________
 
 <img class="img-fluid" src="../img/find1.png">
 
 Finding the record in the database.
+_____________________________________________________________________________________
 
 <img class="img-fluid" src="../img/printall1.png">
 
-Printina all existing records in the database.
-
+Printing all existing records in the database.
+_____________________________________________________________________________________
 For this code to work, you need all of these files:
 database.c
 database.h
