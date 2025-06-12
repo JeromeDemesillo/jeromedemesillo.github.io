@@ -10,28 +10,31 @@ labels:
 summary: "A simple bank database I made back in 2022 for ICS 212 in C"
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/welcome1.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This project was slowly implemented over time throughout the semester, in which we implemented each method at a time, slowly building this project as a whole.  I'll give a small preview on the database working.
 
-Here is some code that illustrates how we read values from the line sensors:
+<img class="img-fluid" src="../img/add1.png">
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Adding a record to the database.
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+<img class="img-fluid" src="../img/find1.png">
+
+Finding the record in the database.
+
+<img class="img-fluid" src="../img/printall1.png">
+
+Printina all existing records in the database.
+
+For this code to work, you need all of these files:
+database.c
+database.h
+record.h
+user_interface.c
+Makefile(for easier compiling)
+
+Unfortunately this project was done on UNIX, so we worked on this through terminal, so there's no 'nice' user interface.  
+
+
+
