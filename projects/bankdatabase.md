@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/C1.png
 title: "Bank Database"
 date: 2022
 published: true
 labels:
   - C
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "A simple bank database I made back in 2022 for ICS 212 in C"
 ---
 
 <div class="text-center p-4">
