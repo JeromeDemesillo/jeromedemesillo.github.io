@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/belongingsquare.png
 title: "Belonging"
-date: 2025
+date: 2025-05-12
 published: true
 labels:
   - GitHub
