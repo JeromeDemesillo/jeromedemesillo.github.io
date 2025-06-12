@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/C1.png
 title: "Bank Database"
-date: 2022
+date: 2022 - 10 - 29
 published: true
 labels:
   - C
