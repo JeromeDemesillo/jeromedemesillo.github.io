@@ -7,7 +7,6 @@ date: 2022-10-29
 published: true
 labels:
   - C
-  - C++
   - UNIX
 summary: "A simple bank database I made back in 2022 for ICS 212 in C"
 ---
