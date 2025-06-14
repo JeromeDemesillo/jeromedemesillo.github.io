@@ -43,6 +43,8 @@ URGENT!! Code not working plz help!!!
 
 Theres a couple reasons why this is an unsmart question.  First of all, the title is very vague and does NOT describe the issue.  And the code they showed no sign in which they tried to debug or research ehats wrong (all they're missing is a ; at the end of the println statement).  They also did not specifically mentioned what error their compiler said, usually people would put the error they're getting so that people who are trying to help see exactly whats wrong and have an idea of where to look, instead of having to go through the persons code themselves to find out why the code wouldn't be working. 
 
-## ChatGPT
+<h3>
+ChatGPT  
+</h3>
 
 I asked ChatGPT to prompt me the example of an unsmart question on StackOverflow.
