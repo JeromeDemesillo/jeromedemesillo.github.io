@@ -35,12 +35,13 @@ Unsmart Questions
 
 "Hey guys, I’m working on my Java project and it just won’t compile. I don’t know what’s wrong, it was working yesterday and now it just gives me an error. Here’s a piece of the code:"
 
-`public class Hello {
+```
+public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello world")
     }
 }
-`
+```
 
 Theres a couple reasons why this is an unsmart question.  First of all, the title is very vague and does NOT describe the issue.  And the code they showed no sign in which they tried to debug or research ehats wrong (all they're missing is a ; at the end of the println statement).  They also did not specifically mentioned what error their compiler said, usually people would put the error they're getting so that people who are trying to help see exactly whats wrong and have an idea of where to look, instead of having to go through the persons code themselves to find out why the code wouldn't be working. 
 
