@@ -13,7 +13,10 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/goto.png">
 
-## Smart Questions
+<h1>
+Smart Questions
+</h1>
+
 
 [What is a NullPointerException, and how do I fix it?](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it)
 
@@ -23,7 +26,9 @@ The first question is simply about the NullPointerException Error and how to fix
 
 Capturing the essence of these questions is crucial for software engineers. Utilizing the way these questions were asked is useful because you’re not only learning from the question but also helping others understand it. It enables the questioner to thoughtfully pose their question while making it easy for the listener to comprehend and respond with an appropriate answer.
 
-## Unsmart Questions
+<h2>
+Unsmart Questions
+</h2>
 
 URGENT!! Code not working plz help!!!
 
