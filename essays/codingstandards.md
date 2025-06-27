@@ -1,52 +1,59 @@
 ---
 layout: essay
 type: essay
-title: "(Un)Smart Questions?"
+title: "ESLint in VSCode"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-13
+date: 2025-06-27
 published: true
 labels:
   - Questions
-  - Answers
-  - StackOverflow
+  - Reflection
+  - VS Code
+  - ESLint
 ---
-
-<img width="400px" class="rounded float-start pe-4" src="../img/goto.png">
 
 
 <h1>
-Smart Questions
+Coding Standards can actually help you learn a programming language
 </h1>
 
+I do agree thay coding standards can help someone learn a programming language because in languages like Python, indentations are very vital when it comes to coding in Python.  And just having neatly written code with good indenting can not only make the code look neater, but it helps the programmer look back on the code systematically in case the programmer needs to find a bug.  For example:
 
-[What is a NullPointerException, and how do I fix it?](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it)
+```
+while(strncmp(userinput, "quit", size - 1) != 0)
+    {
+    
+        fgets(userinput,10, stdin);
+        size = strlen(userinput);
+        if(strncmp(userinput, "add", size - 1) == 0)
+        {
+            printf("\nEnter account number:");
+            fgets(numinput, 1000, stdin);
+            while(strtol(numinput, &null, 10) <= 0)
+            {
+                printf("Invalid input, try again.\n");
+                fgets(numinput, 1000, stdin);
+            }
+```
 
-[What and where are the stack and heap](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+This is a snippet of code from my ICS 212 class.  Having the code formatted like this helps makes the code more readable and whats inside a loop and such compared to:
 
-The first question is simply about the NullPointerException Error and how to fix it. The developer who asked this question even goes more in-depth and asks how the problem occurs, as well as if there are any methods to prevent it from happening. This question has a simple header that grasps people’s attention and then delves into more topics related to the header. The second question is about the Stack and the Heap. The header asks about ‘what’ and ‘where’ they are but then expands into more questions, such as where they are physically located in a computer’s memory, what determines their sizes, what makes one faster, etc. This question is also simple but it generates even more simple and quick questions that can be further explained by the person providing the answer. This allows the explainer to offer a thoughtful explanation about the topic.
+```
+while(strncmp(userinput, "quit", size - 1) != 0) {
+fgets(userinput,10, stdin);
+size = strlen(userinput);
+if(strncmp(userinput, "add", size - 1) == 0) {
+printf("\nEnter account number:");
+fgets(numinput, 1000, stdin);
+while(strtol(numinput, &null, 10) <= 0) {
+printf("Invalid input, try again.\n");
+fgets(numinput, 1000, stdin); }
+```
 
-Capturing the essence of these questions is crucial for software engineers. Utilizing the way these questions were asked is useful because you’re not only learning from the question but also helping others understand it. It enables the questioner to thoughtfully pose their question while making it easy for the listener to comprehend and respond with an appropriate answer.
+It is immediatly more unreadable and bugs would be a lot harder to find if code was written all clumped up together like this.  And writing code this way (in C) will actually work as long as the syntax is correct.  Although it'll still work, doesn't mean we should write it this way, having coding standards helps everyone universally.  It makes it so that other people and the developer is able to read and understand how the code works and if at all, there is any problems with it.
 
 <h2>
-Unsmart Questions
+Impressions on ESLint
 </h2>
 
-URGENT!! Code not working plz help!!!
-
-"Hey guys, I’m working on my Java project and it just won’t compile. I don’t know what’s wrong, it was working yesterday and now it just gives me an error. Here’s a piece of the code:"
-
-```
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello world")
-    }
-}
-```
-
-Theres a couple reasons why this is an unsmart question.  First of all, the title is very vague and does NOT describe the issue.  And the code they showed no sign in which they tried to debug or research ehats wrong (all they're missing is a ; at the end of the println statement).  They also did not specifically mentioned what error their compiler said, usually people would put the error they're getting so that people who are trying to help see exactly whats wrong and have an idea of where to look, instead of having to go through the persons code themselves to find out why the code wouldn't be working. 
-
-<h3>
-ChatGPT  
-</h3>
-
-I asked ChatGPT to prompt me the example of an unsmart question on StackOverflow.
+I do think that getting rid of the errors on ESLint can be a little annoying at times, especially since I'm supposed to just put 2 spaces instead of pressing TAB to indent code.  But other than that, I think fixing the errors is actually pretty helpful and insightful, since HTML and stuff is pretty new to me.  
