@@ -1,59 +1,27 @@
 ---
 layout: essay
 type: essay
-title: "ESLint in VSCode"
+title: "First Timing Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-27
+date: 2025-07-06
 published: true
 labels:
-  - Questions
   - Reflection
   - VS Code
-  - ESLint
+  - Bootstrap 5
 ---
 
 
 <h1>
-Coding Standards can actually help you learn a programming language
+Overall thoughts on UI Frameworks
 </h1>
 
-I do agree thay coding standards can help someone learn a programming language because in languages like Python, indentations are very vital when it comes to coding in Python.  And just having neatly written code with good indenting can not only make the code look neater, but it helps the programmer look back on the code systematically in case the programmer needs to find a bug.  For example:
-
-```
-while(strncmp(userinput, "quit", size - 1) != 0)
-    {
-    
-        fgets(userinput,10, stdin);
-        size = strlen(userinput);
-        if(strncmp(userinput, "add", size - 1) == 0)
-        {
-            printf("\nEnter account number:");
-            fgets(numinput, 1000, stdin);
-            while(strtol(numinput, &null, 10) <= 0)
-            {
-                printf("Invalid input, try again.\n");
-                fgets(numinput, 1000, stdin);
-            }
-```
-
-This is a snippet of code from my ICS 212 class.  Having the code formatted like this helps makes the code more readable and whats inside a loop and such compared to:
-
-```
-while(strncmp(userinput, "quit", size - 1) != 0) {
-fgets(userinput,10, stdin);
-size = strlen(userinput);
-if(strncmp(userinput, "add", size - 1) == 0) {
-printf("\nEnter account number:");
-fgets(numinput, 1000, stdin);
-while(strtol(numinput, &null, 10) <= 0) {
-printf("Invalid input, try again.\n");
-fgets(numinput, 1000, stdin); }
-```
-
-It is immediatly more unreadable and bugs would be a lot harder to find if code was written all clumped up together like this.  And writing code this way (in C) will actually work as long as the syntax is correct.  Although it'll still work, doesn't mean we should write it this way, having coding standards helps everyone universally.  It makes it so that other people and the developer is able to read and understand how the code works and if at all, there is any problems with it.
+I think UI Frameworks, despite it being just as hard to learn as a new programming language, is very useful.  It creates more ways for us to accomplish getting certain tasks done without needing to use raw HTML and CSS.
 
 <h2>
-Impressions on ESLint
+Why bother using stuff like Bootstrap 5?
 </h2>
 
-I do think that getting rid of the errors on ESLint can be a little annoying at times, especially since I'm supposed to just put 2 spaces instead of pressing TAB to indent code.  But other than that, I think fixing the errors is actually pretty helpful and insightful, since HTML and stuff is pretty new to me.  
+After working on the islandsnow WOD and having to recreate a website of my own choice, I thought that Bootstrap 5 was VERY helpful because of the amount of things we could do with it; an example being that Bootstrap has icons which we can just link one and then use in our code.  It's definetly a lot easier using those icons for certain things compared to having to find a image of what we want, uploading it to our local save, then having to link it into our code via img src=...  
+
+And that's just scratching the surface with what Bootstrap 5 has to offer.  Bootstrap 5 has a ton of other prebuilt compenents that we can use, such as Navbars and Buttons.  I don't recall having to make navbars or buttons through raw CSS and HTML, but I can definitely say that learning how to use and make the navbars and buttons via Bootstrap was pretty simple and easy for me to understand.  Overall I think using Bootstrap over raw CSS and HTML requires overall less code when it comes to making user interfaces.  
