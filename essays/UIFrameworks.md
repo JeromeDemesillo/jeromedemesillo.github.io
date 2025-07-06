@@ -26,11 +26,15 @@ After working on the islandsnow WOD and having to recreate a website of my own c
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstrapicon.png">
 
+
 This is what using Bootstrap icons look like, overall less code to write and very simple to use
+
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstrap code.png">
 
+
 This is an example of using an image you upload to the local save, its simple but doesn't look as clean as using bootstrap icons, and a lot more work with having to go and find an image you want, download it, and linking it like this.
+
 
 <img width="200px" class="rounded float-start pe-4" src="../img/imagecode.png">
 
