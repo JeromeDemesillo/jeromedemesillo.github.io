@@ -4,7 +4,7 @@ type: essay
 title: "First Timing Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2025-07-06
-published: false
+published: true
 labels:
   - Reflection
   - VS Code
