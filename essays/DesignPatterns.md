@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "The Music Of Software"
 # All dates must be YYYY-MM-DD format!
-date: 2025-07-024
-published: false
+date: 2025-07-24
+published: true
 labels:
   - Reflection
 ---
