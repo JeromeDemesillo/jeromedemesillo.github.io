@@ -12,10 +12,14 @@ labels:
 
 
 <h1>
-Introduction
+I. Introduction
 </h1>
 
 Nowdays, Ai is used in so many different ways, whether it be for learning, completing projects and work, or even just for fun like making images with prompts or even just talking to them for fun.  Ai has become a big resource we use today, especially in education, there are a lot of students who rely on Ai for help to do work.  Not that all students use Ai to just generate answers, we also use Ai to help explain concepts we don't understand, which would be the more effective use for Ai.  When it comes to Software Engineering specifically, however, Ai can be used to code everything, and they do it quite effectively and efficiently.  I have also taken advantage of this modern resource for this class and generally, I use ChatGPT and Github Co-Pilot.  
+
+<h1>
+II. Personal Experiences with Ai
+</h1>
 
 <h1>
 1. Experience WODs
@@ -100,3 +104,21 @@ I would ask ChatGPT "whats wrong with this (copy past code)" whenever I had an e
 </h1>
 
 I don't think I've used Ai more than the listed above.
+
+<h1>
+III. Impact on Learning and Understanding
+</h1>
+
+I think as long as you use Ai in the right way, you're still able to learn, if not the same, but better.  Since this was an ASYNC online class, and I felt like reaching out was a bit hard, asking Ai to help explain concepts to help me understand was really big for me in this class.  Using Ai in this class did help a lot when it came to completing assignments and understanding concepts.
+
+<h1>
+IV. Practical Applications
+</h1>
+
+Outside of ICS 314, I think Ai is more so EVERYWHERE.  ChatGPT has helped me with a bunch of stuff, not only helping with my school work, but whenever I have questions about literally anything, I can always depend on ChatGPT to give me a straight answer.  
+
+I believe that Ai could help address real-world software engineering challenges because Ai is usually more smarter than the normal person, and it would always help getting a different perspective when it comes to solving an issue, even if its coming from an Ai.
+
+<h1>
+V. Challenges and Opportunities
+</h1>
