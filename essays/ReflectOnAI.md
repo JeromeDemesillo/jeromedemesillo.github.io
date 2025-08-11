@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The Music Of Software"
+title: "Modern Resources"
 # All dates must be YYYY-MM-DD format!
-date: 2025-07-24
+date: 2025-08-11
 published: false
 labels:
   - Reflection
+  - Ai
 ---
 
 
