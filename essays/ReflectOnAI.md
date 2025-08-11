@@ -27,7 +27,7 @@ In all honesty, for the WODs with a walkthrough video, which almost all of the W
 2. Practice WODs
 </h1>
 
-This is generally the same as what I said before, but if there were no video to help me, I did have the help with ChatGPT to tell me what steps I needed to do.  Since this class was ASYNC online, and I am generally new to typescript and such, I would often ask the steps on how to complete the WOD.  If it came down to it, I would ask ChatGPT to help me implement something if I didn't know how to, but generally from what I remember, the WODs were more on the simplier side since I remember working on recreating stuff like IslandSnow.
+This is generally the same as what I said before, but if there were no video to help me, I did have the help with ChatGPT to tell me what steps I needed to do.  For example "based off this (copy paste assignment prompt) without telling me the answer directly, give me the steps to complete this."
 
 <h1>
 3. In-Class WODs
@@ -45,8 +45,58 @@ I generally write my own essays, the only time I ever ask help for Ai for my ess
 5. Final Project
 </h1>
 
-The whole problem I had when trying to work on my final project was that whenever I would open the code, I would always get this JSX error and some other random errors, so I would always have to ask ChatGPT how to resolve the errors.  
+The whole problem I had when trying to work on my final project was that whenever I would open the code, I would always get this JSX error and some other random errors, so I would always have to ask ChatGPT how to resolve the errors.  For example "how do I fix this (copy paste error message)?"
 
 <h1>
-
+6. Learning a concept/tutorial
 </h1>
+
+As mentioned before, I have taken advantage of ChatGPT to help explain any concepts I did not understand in this class, and I have also used it to point me in the right direction whhenever I was lost on what to do next.  For example "can you explain this (copy paste concept) and show how I would use it", in the context of coding, it would usually show me a small snippet of code on where and how its used.
+
+<h1>
+7. Ansering a question in class or Discord
+</h1>
+
+I can't say I've used Ai for answering any question in class or discord.
+
+<h1>
+8. Asking or answering a smart-question
+</h1>
+
+I can't say that I've used Ai for this either, not because I thought it was more important to figure it out on my own, but more so that I was just able to without the help of Ai.
+
+<h1>
+9. Coding example
+</h1>
+
+I remember I would use ChatGPT and prompt to for something like "how do I use ___ in react/bootstrap" when we were first doing react and bootstrap.  (I would prompt this when there was no walkthrough video)
+
+<h1>
+10. Explaining Code
+</h1>
+
+Whenever I would ask ChatGPT to explain code, its usually when I ask it to explain the code it gives me when I prompt it to generate a snippet of code.  This is usually for the sake of my own understanding and so I know how it works. 
+
+<h1>
+11. Writing code
+</h1>
+
+I would prompt ChatGPT to help me write small snippets of code, and also Github Co-Pilot would often generate useful code whenever I was coding. For example "how do I use .map in typescript?"
+
+<h1>
+12. Documenting code
+</h1>
+
+The only time this would occur is when I ask ChatGPT to generate comments on how my code works or to help me understand where everything is.  For example, when we would build our own website using bootstrap, I would ask ChatGPT to comment where stuff like the NavBar is and where the other components are.  For example: "(copy paste my code) generate comments of where things are like the navbar."
+
+<h1>
+13. Quality assurance
+</h1>
+
+I would ask ChatGPT "whats wrong with this (copy past code)" whenever I had an error.  And if the lint errors was more than just the indent spaces, I would ask ChatGPT how I could fix the error.  
+
+<h1>
+14. Other uses in ICS 314 not listed
+</h1>
+
+I don't think I've used Ai more than the listed above.
