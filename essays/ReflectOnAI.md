@@ -4,13 +4,13 @@ type: essay
 title: "Modern Resources"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-11
-published: false
+published: true
 labels:
   - Reflection
   - Ai
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/catai.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/catai.jpg">
 
 
 <h1>
