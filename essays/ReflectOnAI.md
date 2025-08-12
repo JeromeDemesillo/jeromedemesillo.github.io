@@ -10,6 +10,8 @@ labels:
   - Ai
 ---
 
+<img width="500px" class="rounded float-start pe-4" src="../img/catai.png">
+
 
 <h1>
 I. Introduction
