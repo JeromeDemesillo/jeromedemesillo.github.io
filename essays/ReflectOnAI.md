@@ -122,3 +122,25 @@ I believe that Ai could help address real-world software engineering challenges 
 <h1>
 V. Challenges and Opportunities
 </h1>
+
+Some challenges or limitations that I have encountered whilst using Ai in the course would be that if something is wrong in one part of the project, it could also affect another part.  For example, I forget what exact assignment it was, but I had an error where the code was expecting like a string string string but instead was getting a string string number, an with Ai, you can only really send it one file at a time, like my page.tsx looks fine but something else is causing an error.  So it was really up to me to go and find what was causing the issue so that ChatGPT could help me resolve the problem.  
+
+<h1>
+VI. Comparative Analysis
+</h1>
+
+Traditional software engineering education, through lectures, textbooks, and manual coding assignments, emphasizes developing a fundamental understanding from the ground up. While this method can be slower and  less engaging, it establishes strong and long-lasting skills.
+
+In contrast, AI-enhanced learning is more faster and more personalized experience. AI tools can deliver instant feedback, generate examples, and automate repetitive tasks, which increases engagement and making the learning process better.
+
+<h1>
+VII. Future Considerations
+</h1>
+
+I think that Ai would play a big role in the future when it comes to software engineering education.  Some areas of improvement or potential challenges would be the misuse of Ai, rather than using Ai in a way where you learn, some would use it to just solve problems directly, which isn't inheritly bad since you can still learn from it in a way, you don't learn as much compared to if you would solve the problem yourself.
+
+<h1>
+VIII. Conclusion
+</h1>
+
+Overall, I think the use of Ai in this class, especially this one during the summer, is definetly helpful.  I would definetly reccomend that Ai is used in a way that it doesn't tell you the answer directly, but more so the right direction on how to solve problems, and if it comes down to it, its fine for Ai to give an answer as long as you have tried to solve the problem.  
