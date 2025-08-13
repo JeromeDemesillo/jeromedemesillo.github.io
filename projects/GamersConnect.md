@@ -28,8 +28,14 @@ Features
 </h1>
 
 🎯 Smart Player Matching – Suggests teammates based on games, playstyle, and platform preferences.
+
+
 📅 Session Scheduling – Organize matches, invite friends, and set game times.
+
+
 📍 Event Discovery – Browse local tournaments, LAN parties, and online events.
+
+
 🖥 Responsive Design – Works seamlessly on desktop and mobile.
 
 
