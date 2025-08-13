@@ -4,7 +4,7 @@ type: project
 image: img/gamers.png
 title: "Gamers Connect"
 date: 2025
-published: false
+published: true
 labels:
   - Typescript
   - Prisma
@@ -32,3 +32,6 @@ Features
 📍 Event Discovery – Browse local tournaments, LAN parties, and online events.
 🖥 Responsive Design – Works seamlessly on desktop and mobile.
 
+
+
+[https://gamers-connect.github.io/](https://gamers-connect.github.io/)
