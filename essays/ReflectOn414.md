@@ -4,7 +4,7 @@ type: essay
 title: "Teamwork: Better Together"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-19
-published: true
+published: false
 labels:
   - Reflection
   - Software Engineering
