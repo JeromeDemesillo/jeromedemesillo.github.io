@@ -6,7 +6,7 @@
     "email": "jeromega@hawaii.edu",
     "phone": "",
     "website": "https://jeromedemesillo.github.io/",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "I have a Bachelors of Arts in Information and Computer Science.  I graduated from University of Hawaii at Manoa in Fall 2025",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "url": "https://github.com/JeromeDemesillo" },
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "HTML", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Science (Fall 2025)",
       "studyType": "B.A.",
       "startDate": "Fall2021",
       "endDate": "Fall2025",
@@ -49,6 +49,11 @@
       "startDate": "2022-09-30",
       "endDate": "2025-11-14",
       "summary": "Under the supervision of the UHM Department of Public Safety (DPS), After-hours walking/driving escorts, observe and report on breach of security and safety hazards on the UHM campus, patrolling of the UHM campus and providing assistance for the University community, reporting all disciplinary problems on campus to UHM DPS for enforcement of rules and regulations. Reporting of all emergency situations requiring immediate action to UHM DPS. Responsible for the care and cleaning of vehicles and other duties as assigned.",
+
+      "company": "Hilton Hawaiian Village",
+      "position": "Safety and Security Officer",
+      "startDate": "2025-04-07",
+      "endDate": "Present",
     },
   ],
 }
