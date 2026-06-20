@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: img/gamers.png
-title: "Gamers Connect"
+title: "Party Pantry"
 date: 2025-8-05
-published: true
+published: false
 labels:
   - Typescript
   - Prisma
   - Vercel
-  - Next.js
 summary: "A full-stack web app that helps UH students find and connect with local gamers through matchmaking, sessions, and events."
 ---
 
