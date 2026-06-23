@@ -4,7 +4,7 @@ type: essay
 title: "ESLint in VSCode"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-27
-published: true
+published: false
 labels:
   - Questions
   - Reflection
