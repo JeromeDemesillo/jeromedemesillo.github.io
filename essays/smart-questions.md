@@ -4,7 +4,7 @@ type: essay
 title: "(Un)Smart Questions?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-13
-published: true
+published: false
 labels:
   - Questions
   - Answers
