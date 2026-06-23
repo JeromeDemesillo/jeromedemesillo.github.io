@@ -4,7 +4,7 @@ type: essay
 title: "Something New But Not Really"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-06
-published: true
+published: false
 labels:
   - TypeScript
   - Learning
