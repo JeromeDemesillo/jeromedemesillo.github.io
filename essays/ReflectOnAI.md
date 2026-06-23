@@ -4,7 +4,7 @@ type: essay
 title: "Modern Resources"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-11
-published: true
+published: false
 labels:
   - Reflection
   - Ai
