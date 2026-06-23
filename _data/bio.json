@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jerome Gavin Demesillo",
-    "label": "Student",
+    "label": "",
     "picture": "https://github.com/JeromeDemesillo.png",
     "email": "jeromedemesillo@gmail.com",
     "phone": "",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub"]
+      "keywords": [ "MacOS", "Git/GitHub" , "Docker" , "Database Management (SQL)" , "Autodesk Maya (3D modeling and animation" , "Unity"]
     }
   ],
   "education": [
