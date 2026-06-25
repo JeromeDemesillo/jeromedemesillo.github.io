@@ -23,21 +23,9 @@ Gamers Connect is a full-stack platform built for students at the University of 
 
 The app features intelligent player matching, session scheduling, and a clean, responsive UI.
 
-<h1>
-Features
-</h1>
 
-🎯 Smart Player Matching – Suggests teammates based on games, playstyle, and platform preferences.
-
-
-📅 Session Scheduling – Organize matches, invite friends, and set game times.
-
-
-📍 Event Discovery – Browse local tournaments, LAN parties, and online events.
-
-
-🖥 Responsive Design – Works seamlessly on desktop and mobile.
-
-
-
+Our github page:
 [https://gamers-connect.github.io/](https://gamers-connect.github.io/)
+
+Live application:
+[https://uh-gamers-connect.vercel.app/](https://uh-gamers-connect.vercel.app/)
