@@ -10,7 +10,7 @@ labels:
   - Game Development
   - Unity
   - RPG
-summary: "An RPG me and my friends made for ICS 485."
+summary: "An RPG game that me and my friends made together."
 ---
 
 <img class="img-fluid" src="../img/belonging title.png">
