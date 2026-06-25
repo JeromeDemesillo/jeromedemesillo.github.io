@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: img/gamers.png
+image: img/pantrypartyicon.png
 title: "Party Pantry"
 date: 2025-8-05
-published: false
+published: true
 labels:
   - Typescript
-  - Prisma
+  - HTML
   - Vercel
 summary: "A web application that enables users to organize, track, and manage inventory across multiple pantry and storage locations."
 ---
 
-<img class="img-fluid" src="../img/gamersconnect.png">
+<img class="img-fluid" src="../img/pantryparty.png">
 
 <h1>
 Overview
