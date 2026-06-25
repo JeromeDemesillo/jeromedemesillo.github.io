@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/gamers.png
 title: "Gamers Connect"
-date: 8/05/2025
+date: 2025-8-05
 published: true
 labels:
   - Typescript
