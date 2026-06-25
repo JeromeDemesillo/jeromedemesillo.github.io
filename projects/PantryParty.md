@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pantrypartyicon.png
 title: "Party Pantry"
-date: 2025-8-05
+date: 2025-08-05
 published: true
 labels:
   - Typescript
