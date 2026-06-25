@@ -9,7 +9,7 @@ labels:
   - Typescript
   - Prisma
   - Vercel
-summary: "A full-stack web app that helps UH students find and connect with local gamers through matchmaking, sessions, and events."
+summary: "A web application that enables users to organize, track, and manage inventory across multiple pantry and storage locations."
 ---
 
 <img class="img-fluid" src="../img/gamersconnect.png">
@@ -18,25 +18,9 @@ summary: "A full-stack web app that helps UH students find and connect with loca
 Overview
 </h1>
 
-Gamers Connect is a full-stack platform built for students at the University of Hawai‘i to discover and connect with local gamers. Users can create personalized profiles, find teammates based on games and playstyle, organize gaming sessions, and browse nearby tournaments or meetups.
-
-The app features intelligent player matching, session scheduling, and a clean, responsive UI.
-
-<h1>
-Features
-</h1>
-
-🎯 Smart Player Matching – Suggests teammates based on games, playstyle, and platform preferences.
-
-
-📅 Session Scheduling – Organize matches, invite friends, and set game times.
-
-
-📍 Event Discovery – Browse local tournaments, LAN parties, and online events.
-
-
-🖥 Responsive Design – Works seamlessly on desktop and mobile.
+Party Pantry is a web-based inventory management application designed to help users organize and track food and household items across multiple storage locations, such as homes, freezers, refrigerators, and spice racks. The application enables users to monitor and update their pantry inventory in real time by creating customizable storage spaces and adding items to their corresponding locations.
 
 
 
-[https://gamers-connect.github.io/](https://gamers-connect.github.io/)
+[https://party-pantry.github.io/](https://party-pantry.github.io/
+)
