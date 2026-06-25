@@ -22,5 +22,8 @@ Party Pantry is a web-based inventory management application designed to help us
 
 
 
-[https://party-pantry.github.io/](https://party-pantry.github.io/
-)
+Our github page:
+[https://party-pantry.github.io/](https://party-pantry.github.io/)
+
+Live application:
+[https://pantry-party-delta.vercel.app/](https://pantry-party-delta.vercel.app/)
